@@ -1,0 +1,5 @@
+{
+  "name": "Lucknow Surgical Hospital",
+  "description": "A modern, multi-specialty healthcare institution in Lucknow providing high-quality surgical and medical services with cashless treatment options.",
+  "requestFramePermissions": ["geolocation"]
+}
